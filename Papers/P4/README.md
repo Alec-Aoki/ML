@@ -1,0 +1,3 @@
+# Investigating the Performance of Data Complexity & Instance Hardness Measures as A Meta-Feature in Overlapping Classes Problem
+Little attention has been paid to validating the meta-feature decisions in reflecting
+the actual data properties. In particular, if the meta-feature analysis is negatively affected by complex data characteristics, such as class overlap due to the distortion imposed by the noisy features at the decision boundary of the classes and thereby produces biased meta-learning recommendations that do not match the actual data characteristics (either by overestimating or underestimating the complexity).
