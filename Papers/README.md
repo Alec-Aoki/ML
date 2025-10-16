@@ -1,3 +1,6 @@
+# About
+Papers and my summary of them. Most of them is just copied and pasted snippets of the paper, and it focuses on concepts over implementations/maths.
+
 # Basic Concepts
 Source: https://medium.com/@souvikp663/classification-problems-class-imbalance-class-overlap-and-noise-c422149f522b
 
